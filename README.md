@@ -6,13 +6,14 @@ This is the GitHub repository for the paper "ESGQA-Bench: A Standards-Driven Ben
 
 Dataset Description:
 
-Company: Company Report under investigation
-GRI_ID: Disclosure ID
-GRI: Disclosure Name
-Page: Candidate Pages for Answer
-Number_of_pages: Number of Candidate Pages
-Question: Question under investigation
-Classification: Quantifiable/Non-Quantifiable
-Answer: Answer to the question based on Page Data
-Page_element: Answer Modality Text/Table/...
-Answer_page: Page numbers in which answer lies
+Company: Company Report under investigation <br/>
+GRI_ID: Disclosure ID <br/>
+GRI: Disclosure Name <br/>
+Page: Candidate Pages for Answer <br/>
+Number_of_pages: Number of Candidate Pages <br/>
+Question: Question under investigation <br/>
+Classification: Quantifiable/Non-Quantifiable <br/>
+Answer: Answer to the question based on Page Data <br/>
+Page_element: Answer Modality Text/Table/... <br/>
+Answer_page: Page numbers in which answer lies <br/>
+
