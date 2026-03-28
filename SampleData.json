@@ -1,0 +1,110 @@
+[
+	{
+		"Company": "adient",
+		"GRI_ID": "405-1",
+		"GRI": "Diversity of governance bodies and employees",
+		"Page": "51 58 59 76",
+		"Number_of_pages": 4,
+		"Question": "What is the percentage of employees from underrepresented groups?",
+		"Classification": "Quantifiable",
+		"Answer": "49% minority in All U.S. Employees, 52% minority in U.S. Plant Population, 44% of employees hired in the U.S. identify as a U.S. ethnic minority",
+		"Page_element": "text, table",
+		"Answer_page": "58 59"
+	},
+	{
+		"Company": "gap",
+		"GRI_ID": "305-5",
+		"GRI": "Reduction of GHG emissions",
+		"Page": "21 11",
+		"Number_of_pages": 2,
+		"Question": "What GHG emissions were reduced as a direct result of reduction initiatives?",
+		"Classification": "Quantifiable",
+		"Answer": "77% reduction from 2017 to 2022 for Scope 1 and 2, 16% reduction from 2017 to 2022 for Scope 3",
+		"Page_element": "text, table",
+		"Answer_page": "21 11"
+	},
+	{
+		"Company": "asiana",
+		"GRI_ID": "401-3",
+		"GRI": "Parental leave",
+		"Page": "64 102",
+		"Number_of_pages": 2,
+		"Question": "How many male employees who returned to work after parental leave were still employed 12 months later?",
+		"Classification": "Quantifiable",
+		"Answer": "100 % (2021), 100 % (2022), 91.7 % (2023)",
+		"Page_element": "chart",
+		"Answer_page": "64"
+	},
+	{
+		"Company": "asiana",
+		"GRI_ID": "401-3",
+		"GRI": "Parental leave",
+		"Page": "64 102",
+		"Number_of_pages": 2,
+		"Question": "How many female employees who returned to work after parental leave were still employed 12 months later?",
+		"Classification": "Quantifiable",
+		"Answer": "100 % (2021), 100 % (2022), 89.1 % (2023)",
+		"Page_element": "chart",
+		"Answer_page": "64"
+	},
+	{
+		"Company": "unb",
+		"GRI_ID": "302-4",
+		"GRI": "Reduction of energy consumption",
+		"Page": "33",
+		"Number_of_pages": 1,
+		"Question": "In what timeframe was the reduction in energy consumption achieved?",
+		"Classification": "Quantifiable",
+		"Answer": "2019-2022.",
+		"Page_element": "chart",
+		"Answer_page": "33"
+	},
+	{
+		"Company": "adient",
+		"GRI_ID": "412-2",
+		"GRI": "Employee training on human rights policies or procedures",
+		"Page": "51 58 59 76",
+		"Number_of_pages": 4,
+		"Question": "What is the diversity of the employees in terms of gender?",
+		"Classification": "Non-Quantifiable",
+		"Answer": "41% Female, 59% Male",
+		"Page_element": "chart, infographics",
+		"Answer_page": "51 58"
+	},
+	{
+		"Company": "adient",
+		"GRI_ID": "412-2",
+		"GRI": "Employee training on human rights policies or procedures",
+		"Page": "51 58 59 76",
+		"Number_of_pages": 4,
+		"Question": "What is the diversity of employees in terms of age, racial, and ethnic background?",
+		"Classification": "Non-Quantifiable",
+		"Answer": "15% are <30, 28% are 31-40, 29% are 41-50, 25% are 51-60, 2% are >60, 49% are minority in All U.S. Employees, 52% are minority in U.S. Plant Population, 45% of employees hired were female, 44% of employees hired in the U.S. identify as a U.S. ethnic minority",
+		"Page_element": "chart, infographics",
+		"Answer_page": "51 58 59"
+	},
+	{
+		"Company": "shinhan",
+		"GRI_ID": "201-2",
+		"GRI": "Financial implications and other risks and opportunities due to climate change",
+		"Page": "80 81 82 83 84 85",
+		"Number_of_pages": 6,
+		"Question": "What is the expected impact associated with the risk or opportunity?",
+		"Classification": "Non-Quantifiable",
+		"Answer": "The expected impact includes a decrease in the BIS ratio, an increase in the bankruptcy rate of high-carbon industries, a decrease in the value of real estate mortgage, and expected bad debt.",
+		"Page_element": "chart, table",
+		"Answer_page": "82 83"
+	},
+	{
+		"Company": "adient",
+		"GRI_ID": "201-2",
+		"GRI": "Financial implications and other risks and opportunities due to climate change",
+		"Page": "88",
+		"Number_of_pages": 1,
+		"Question": "What climate change risks or opportunities have the potential to generate substantive changes in operations, revenue, or expenditure?",
+		"Classification": "Non-Quantifiable",
+		"Answer": "Transition risks (e.g., changes in regulations, supply chain issues, changes in stakeholders' expectations), physical risks (e.g., acute and chronic risks for Adient's assets, activities and staff), revenue, cost and asset opportunities, Customer Behavior risk, Investor Behavior risk, Carbon Tax risk, Physical risk, Cost Savings opportunity, Customer Contracts opportunity",
+		"Page_element": "text, table",
+		"Answer_page": "88"
+	}
+]
